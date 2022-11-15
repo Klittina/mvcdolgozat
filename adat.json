@@ -1,0 +1,32 @@
+{
+    "zenek":[
+    {
+        "id":1,
+        "cim":"Engedd el",
+        "eloado":"Cloud 9+ & AWS",
+        "ev":2019,
+        "darab":10
+    },
+    {
+        "id":2,
+        "cim":"Die Tomorrow",
+        "eloado":"Lord Of The Lost",
+        "ev":2012,
+        "darab":10
+    },
+    {
+        "id":3,
+        "cim":"Werewolf",
+        "eloado":"Motionless In White",
+        "ev":2022,
+        "darab":10
+    },
+    {
+        "id":4,
+        "cim":"The Watcher",
+        "eloado":"Arch Enemy",
+        "ev":2022,
+        "darab":10
+    }
+    ]
+}
